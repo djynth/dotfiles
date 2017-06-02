@@ -1,0 +1,11 @@
+[alias]
+	br = branch
+	ci = commit
+	co = checkout
+	st = status
+	stat = status
+[user]
+	name = Dominic Zirbel
+	email = dzirbel@thumbtack.com
+[core]
+	editor = subl -n -w
