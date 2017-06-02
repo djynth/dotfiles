@@ -9,3 +9,5 @@
 	email = dzirbel@thumbtack.com
 [core]
 	editor = subl -n -w
+[push]
+	default = matching
