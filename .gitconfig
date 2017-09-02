@@ -1,16 +1,14 @@
 [alias]
-	br = branch
-	ci = commit
-	co = checkout
-	st = status
-	stat = status
+    br = branch
+    ci = commit
+    co = checkout
+    st = status
+    stat = status
 [user]
-	name = Dominic Zirbel
-	email = dzirbel@thumbtack.com
-[gitreview]
-	username = dzirbel
+    name = Dominic Zirbel
+    email = djynth@gmail.com
 [core]
-	editor = subl -n -w
+    editor = subl -n -w
 [push]
     default = simple
 [branch]
