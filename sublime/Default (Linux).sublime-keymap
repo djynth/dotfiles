@@ -1,4 +1,6 @@
 [
     { "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
-    { "keys": ["ctrl+s"], "command": "save_all" }
+    { "keys": ["ctrl+s"], "command": "save_all" },
+    { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 ]
