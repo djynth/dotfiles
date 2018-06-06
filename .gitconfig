@@ -6,7 +6,7 @@
     stat = status
 [user]
     name = Dominic Zirbel
-    email = djynth@gmail.com
+    email = dominiczirbel@gmail.com
 [core]
     editor = subl -n -w
 [push]
